@@ -1,4 +1,4 @@
-# Twitter_realtime_acquasition
+# Twitter_realtime_acquisition
 Acquisition of Real time tweets based on climate change using twitter streaming API and Hashtags
 Steps to run the application:
 
